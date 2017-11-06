@@ -1,0 +1,14 @@
+{
+    "name": "llqhz/laravel",
+    "description": "学习 composer",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "llqhz",
+            "email": "llqhz@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
